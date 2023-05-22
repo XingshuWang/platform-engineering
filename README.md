@@ -37,7 +37,7 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 [阿里云云开发平台](https://workbench.aliyun.com/)
 
 ## 相关中文新闻
--[谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
+- [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
 
 -[如何设计一个内部开发者平台](https://blog.csdn.net/community_717/article/details/128281237)
 
