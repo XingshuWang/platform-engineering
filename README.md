@@ -1,6 +1,5 @@
-# platform-engineering
 
-## 相关术语
+# 相关术语
 在该项目里，我首先收集了一些相关资料，供大家参考。
 术语|说明
 --|--
@@ -11,7 +10,7 @@ CI|持续集成(Continuous Integration): 持续频繁的（每天多次）将本
 CD|持续交付（Continuous Delivery）: 是持续集成的下一步，持续频繁地将软件的新版本交付到类生产环境（类似于预发），交付给测试、产品验收。
 CD|持续部署（Continuous Deployment）: 是持续交付的下一步，“自动”将代码部署到生产环境。
 Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台的工具，容器集群管理系统。目标是让部署容器化的应用简单并且高效，提供了应用部署，规划，更新，维护的一种机制。
-## 报告与白皮书
+# 报告与白皮书
 
 标题|简介|作者/来源
 --|--|--
@@ -23,19 +22,14 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 [Announcing A White Paper On Platforms For Cloud Native Computing](https://aster.cloud/2023/04/20/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)|通过描述内部平台提供的价值、它们解决的问题、跟踪它们成功的方法以及它们所需要的属性和能力，来教育和建议组织领导者和潜在的平台建设者。|CNCF
 [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)|本文介绍了构建内部开发人员门户的原因和方法，以及它们如何影响开发人员的经验和工作效率。|eBook
 
-## 国内国外平台
-[mia Platform](https://blog.mia-platform.eu/en)
-
-[Humanitec](https://humanitec.com/blog)
-
-[CloudKnit](https://www.cloudknit.io/blog)
-
-[蚂蚁集团 KusionStack](https://gitee.com/kusionstack)
-
-[Devtron](https://devtron.ai/blog/)
-
-[阿里云云开发平台](https://workbench.aliyun.com/)
-
+# 国内国外平台
+- [mia Platform](https://blog.mia-platform.eu/en)
+- [Humanitec](https://humanitec.com/blog)
+- [CloudKnit](https://www.cloudknit.io/blog)
+- [蚂蚁集团 KusionStack](https://gitee.com/kusionstack)
+- [Devtron](https://devtron.ai/blog/)
+- [阿里云云开发平台](https://workbench.aliyun.com/)
+# 相关新闻
 ## 相关中文新闻
 - [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
 - [如何设计一个内部开发者平台](https://blog.csdn.net/community_717/article/details/128281237)
@@ -49,7 +43,16 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 - [平台工程 | 内部开发者门户权威指南](https://www.bilibili.com/read/cv23345374?from=search&spm_id_from=333.337.0.0)
 - [蚂蚁规模化平台工程实践两年多，我们学到了什么](https://www.sohu.com/a/594309889_355140)
 - [软件工程的第一性原理](https://www.smartide.cn/zh/blog/2022-1022-software-engineering/)
-- 
+- [平台工程：微服务DevOps 进化还是花哨的重命名？](https://mp.weixin.qq.com/s/DOHfKJaKC3pC9bQDTKDHUw)
+- [研发效能｜DevOps 已死平台工程永存带来的焦虑](https://baijiahao.baidu.com/s?id=1748301770586019606&wfr=spider&for=pc)
+- [关于平台工程的开发者工具链，你还想加点啥？](https://mp.weixin.qq.com/s/dba1GNZmM7FjfmaOgemlMg)
+- [平台工程中认知负荷的挑战](https://www.sohu.com/a/624647320_355140)
+- [平台工程解Kubernetes之痛](https://mp.weixin.qq.com/s/W1hYKA8ZqkK0YWNd3a7w3g)
+- [DevOps 缺少定义,平台工程需要指导性路线图](https://new.qq.com/rain/a/20230118A03HMM00)
+- [超越DevOps的平台工程：云计算背景下的平台战略和实施](https://insights.thoughtworks.cn/beyond-devops/)
+- [平台工程的 2023：助力云原生重构研发组织文化与组织架构](https://zhuanlan.zhihu.com/p/617542339)
+- [Netflix 是如何利用联合平台控制台统一工程体验的](https://it.sohu.com/a/656813382_355140)
+- [云原生趋势下的平台工程](https://www.infoq.cn/theme/183)
 
 
 
