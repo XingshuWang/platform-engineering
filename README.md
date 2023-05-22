@@ -20,8 +20,15 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 [Building Software Platforms](https://leanpub.com/software-platforms)|策划了一系列AWS创新，描述了如何使用AWS云服务设计和实现许多建议。|Pablo Bermejo
 [The Platform Engineering Guide: Principles and Best Practices](https://www.infoq.com/minibooks/platform-engineering-guide/)|从许多不同的软件领导者那里提取并收集了专业知识，以帮助读者构建、操作和进化他们自己的平台和平台团队。|InfoQ
 [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)|提出平台工程的概念及如何构建一个成功的平台工程队伍。|Insight eBook
-[]
+[Announcing A White Paper On Platforms For Cloud Native Computing](https://aster.cloud/2023/04/20/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)|通过描述内部平台提供的价值、它们解决的问题、跟踪它们成功的方法以及它们所需要的属性和能力，来教育和建议组织领导者和潜在的平台建设者。|CNCF
+[The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)|本文介绍了构建内部开发人员门户的原因和方法，以及它们如何影响开发人员的经验和工作效率。|eBook
 
+## 国内国外平台
+[mia Platform](https://blog.mia-platform.eu/en)
+[Humanitec](https://humanitec.com/blog)
+[CloudKnit](https://www.cloudknit.io/blog)
+[蚂蚁集团 KusionStack](https://gitee.com/kusionstack)
+[]
 
 
 
