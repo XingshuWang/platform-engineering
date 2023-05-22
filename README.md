@@ -37,9 +37,31 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 [阿里云云开发平台](https://workbench.aliyun.com/)
 
 ## 相关中文新闻
- [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
- [如何设计一个内部开发者平台](https://blog.csdn.net/community_717/article/details/128281237)
- []
+-[谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
+
+-[如何设计一个内部开发者平台](https://blog.csdn.net/community_717/article/details/128281237)
+
+-[论平台工程的价值](https://www.infoq.cn/article/IKV0beLrg2fsFlm61wmg)
+
+-[建立云原生组织的8个要素](https://www.modb.pro/db/394258)
+
+-[“扯淡的DevOps，我们开发者根本不想做运维！”](https://www.163.com/dy/article/HFKER3AL0511D3QS.html)
+
+-[DevOps已死，平台工程才是未来](https://www.infoq.cn/article/7porVp7qVF03BVc2tDd6)
+
+-[聊聊平台工程](https://mp.weixin.qq.com/s/7imERbIC2PFBuksVW-CZ7g)
+
+-[IDP 与 DevOps平台：相似之处与关键差异](https://www.bilibili.com/read/cv23728574?from=search&spm_id_from=333.337.0.0)
+
+-[企业如何构建内部开发者平台？](https://www.bilibili.com/read/cv22390943?from=search&spm_id_from=333.337.0.0)
+
+-[平台工程 | 内部开发者门户权威指南](https://www.bilibili.com/read/cv23345374?from=search&spm_id_from=333.337.0.0)
+
+-[蚂蚁规模化平台工程实践两年多，我们学到了什么](https://www.sohu.com/a/594309889_355140)
+
+[]
+
+
 
 
 
