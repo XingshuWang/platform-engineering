@@ -14,7 +14,7 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 ## 报告与白皮书
 
 标题|简介|作者
---|--
+--|--|--
 [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book)|在云原生时代，如何定位自身与团队？提及了平台团队拓扑。|Matthew Skelton， Manuel Pais
 [The Rise of the Internal Developer Platform](https://info.container-solutions.com/the-rise-of-the-internal-developer-platform)|对IDP的概念进行了解释，为建立IDP提供了一些案例和建议。|Container-Solutions
 
