@@ -13,9 +13,15 @@ CD|持续部署（Continuous Deployment）: 是持续交付的下一步，“自
 Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台的工具，容器集群管理系统。目标是让部署容器化的应用简单并且高效，提供了应用部署，规划，更新，维护的一种机制。
 ## 报告与白皮书
 
-标题|简介|作者
+标题|简介|作者/来源
 --|--|--
 [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book)|在云原生时代，如何定位自身与团队？提及了平台团队拓扑。|Matthew Skelton， Manuel Pais
 [The Rise of the Internal Developer Platform](https://info.container-solutions.com/the-rise-of-the-internal-developer-platform)|对IDP的概念进行了解释，为建立IDP提供了一些案例和建议。|Container-Solutions
+[Building Software Platforms](https://leanpub.com/software-platforms)|策划了一系列AWS创新，描述了如何使用AWS云服务设计和实现许多建议。|Pablo Bermejo
+[The Platform Engineering Guide: Principles and Best Practices](https://www.infoq.com/minibooks/platform-engineering-guide/)|从许多不同的软件领导者那里提取并收集了专业知识，以帮助读者构建、操作和进化他们自己的平台和平台团队。|InfoQ
+[Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)|提出平台工程的概念及如何构建一个成功的平台工程队伍。|Insight eBook
+[]
+
+
 
 
