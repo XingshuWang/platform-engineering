@@ -22,15 +22,15 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 [Announcing A White Paper On Platforms For Cloud Native Computing](https://aster.cloud/2023/04/20/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)|通过描述内部平台提供的价值、它们解决的问题、跟踪它们成功的方法以及它们所需要的属性和能力，来教育和建议组织领导者和潜在的平台建设者。|CNCF
 [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)|本文介绍了构建内部开发人员门户的原因和方法，以及它们如何影响开发人员的经验和工作效率。|eBook
 
-# 国内国外平台
+# 国内国外团队
 - [mia Platform](https://blog.mia-platform.eu/en)
 - [Humanitec](https://humanitec.com/blog)
 - [CloudKnit](https://www.cloudknit.io/blog)
 - [蚂蚁集团 KusionStack](https://gitee.com/kusionstack)
 - [Devtron](https://devtron.ai/blog/)
 - [阿里云云开发平台](https://workbench.aliyun.com/)
-# 相关新闻
-## 相关中文新闻
+# 相关文章
+## 相关中文文章
 - [谷歌、Netflix和亚马逊都说好的IDP是怎样炼成的？](https://new.qq.com/rain/a/20210508A017YT00)
 - [如何设计一个内部开发者平台](https://blog.csdn.net/community_717/article/details/128281237)
 - [论平台工程的价值](https://www.infoq.cn/article/IKV0beLrg2fsFlm61wmg)
@@ -53,7 +53,9 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 - [平台工程的 2023：助力云原生重构研发组织文化与组织架构](https://zhuanlan.zhihu.com/p/617542339)
 - [Netflix 是如何利用联合平台控制台统一工程体验的](https://it.sohu.com/a/656813382_355140)
 - [云原生趋势下的平台工程](https://www.infoq.cn/theme/183)
-
+## 相关外文文章
+- [What is "Platform Engineering"?](https://diff.wikimedia.org/2011/08/17/what-is-platform-engineering/)
+- [Platform engineering product teams](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
 
 
 
