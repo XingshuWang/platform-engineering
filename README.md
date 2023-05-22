@@ -25,9 +25,13 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 
 ## 国内国外平台
 [mia Platform](https://blog.mia-platform.eu/en)
+
 [Humanitec](https://humanitec.com/blog)
+
 [CloudKnit](https://www.cloudknit.io/blog)
+
 [蚂蚁集团 KusionStack](https://gitee.com/kusionstack)
+
 []
 
 
