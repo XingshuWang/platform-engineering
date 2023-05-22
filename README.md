@@ -12,6 +12,7 @@ CD|持续交付（Continuous Delivery）: 是持续集成的下一步，持续�
 CD|持续部署（Continuous Deployment）: 是持续交付的下一步，“自动”将代码部署到生产环境。
 Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台的工具，容器集群管理系统。目标是让部署容器化的应用简单并且高效，提供了应用部署，规划，更新，维护的一种机制。
 ## 报告与白皮书
+
 标题|简介|作者
 --|--
 [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book)|在云原生时代，如何定位自身与团队？提及了平台团队拓扑。|Matthew Skelton， Manuel Pais
