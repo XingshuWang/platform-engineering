@@ -56,6 +56,19 @@ Kubernetes（K8S）|部署和管理基础设施的事实标准，是构建平台
 ## 相关外文文章
 - [What is "Platform Engineering"?](https://diff.wikimedia.org/2011/08/17/what-is-platform-engineering/)
 - [Platform engineering product teams](https://www.thoughtworks.com/radar/techniques/platform-engineering-product-teams)
+- [How to build a platform team now! the secrets to successful engineering](https://hackernoon.com/how-to-build-a-platform-team-now-the-secrets-to-successful-engineering-8a9b6a4d2c8)
+- [The Platform Engineer of the Future](https://cloudytechnologist.com/2019/04/05/the-platform-engineer-of-the-future/)
+- [Platform Engineering](https://wichon.com/platform-engineering)
+- [On the Value of Platform Engineering](https://ulrichkautz.com/posts/2021-03-11_value-of-platforming-engineering/)
+- [How to build an internal developer platform, from those who have done it](https://www.infoworld.com/article/3611369/how-to-build-an-internal-developer-platform-from-those-who-have-done-it.html)
+- [Platform Engineering as a (Community) Service](https://www.infoq.com/articles/platform-engineering-as-community-service/)
+- [What Is Platform Engineering? The Concept Behind the Term](https://www.liatrio.com/blog/what-is-platform-engineering-the-concept-behind-the-term)
+- [Engineering Your Organization: Services, Platforms, and Communities](https://www.infoq.com/presentations/engineering-organization-services-platforms-communities/)
+- [7 core components of an Internal Developer Platform](https://blog.mia-platform.eu/en/seven-core-components-internal-developer-platform)
+- [Platform Engineering: The Definitive Guide](https://loft.sh/blog/platform-engineering-the-definitive-guide/)
+- [Announcing a white paper on Platforms for Cloud Native Computing](https://www.cncf.io/blog/2023/04/11/announcing-a-white-paper-on-platforms-for-cloud-native-computing/)
+- [Internal Developer Portals Can Do More than You Think](https://thenewstack.io/internal-developer-portals-can-do-more-than-you-think/)
+- [What Is Platform Engineering? Role, Principles & Benefits](https://spacelift.io/blog/what-is-platform-engineering)
 
 
 
